@@ -1,5 +1,6 @@
 /**
- * Provides a collection of jokes.
+ * @file Returns a random joke from the collection.
+ * @module Jokes
  * @author Maria Jansson
  */
 
