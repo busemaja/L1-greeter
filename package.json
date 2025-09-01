@@ -1,0 +1,21 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "Assignment L1 for 1dv610",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busemaja/L1-greeter.git"
+  },
+  "author": "Maria Jansson <mj225er@student.lnu.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/busemaja/L1-greeter/issues"
+  },
+  "homepage": "https://github.com/busemaja/L1-greeter#readme"
+}
