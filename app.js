@@ -4,10 +4,8 @@
  */
 import { Jokes } from "./jokes.js"
 
-let name = process.argv[2]
-if (!name) {
-  name = "friend"
-}
+let name = process.argv[2] || "friend"
+
 console.log("Hello " + name + "!")
 console.log("Here's a little something for you:")
 
