@@ -8,7 +8,7 @@ import { Jokes } from './jokes.js'
 const name = process.argv[2] || 'friend'
 
 console.log('Hello ' + name + '!\n' +
-  "Here's a little something for you:")
+  "Here's a little joke for you:")
 
 const joke = new Jokes()
 console.log(joke.getRandomJoke())
